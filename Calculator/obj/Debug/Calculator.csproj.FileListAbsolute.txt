@@ -1,0 +1,11 @@
+D:\ASP.NET\Calculator\bin\Debug\Calculator.exe.config
+D:\ASP.NET\Calculator\bin\Debug\Calculator.exe
+D:\ASP.NET\Calculator\bin\Debug\Calculator.pdb
+D:\ASP.NET\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\ASP.NET\Calculator\obj\Debug\Calculator.Answer.resources
+D:\ASP.NET\Calculator\obj\Debug\Calculator.Form1.resources
+D:\ASP.NET\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\ASP.NET\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\ASP.NET\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Calculator\obj\Debug\Calculator.exe
+D:\ASP.NET\Calculator\obj\Debug\Calculator.pdb
